@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A1rJvdZUfi0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\arithmetic operations\\arithmetic operations\\arithmetic operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

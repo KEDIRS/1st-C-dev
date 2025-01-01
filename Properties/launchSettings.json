@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "arithmetic operations": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
